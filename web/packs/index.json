@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Pom-Pom_Gallery_No._1.json"
+    "Pom-Pom_Gallery_No._1.json",
+    "Pom-Pom_Gallery_No._2.json"
   ],
   "homeserver_url": "https://matrix.wrenspace.dev/"
 }
